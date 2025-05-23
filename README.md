@@ -1,6 +1,7 @@
 # CPE Data Collection and API Development
 
-This project was built for a cybersecurity internship assessment. The goal was to take a large XML dataset from NIST's official CPE dictionary, extract the relevant details, and make them accessible in a more usable form. I wrote a Python script to parse the XML, created a schema in SQLite to store the data efficiently, and then built a REST API using Flask to interact with the dataset. The result is a simple local API that makes it easy to search and page through over 1.4 million CPE entries based on things like title, URIs, and deprecation status.
+This project was built for a cybersecurity internship assessment. The goal was to take a large XML dataset from NIST's official CPE dictionary, extract the relevant details, and make them accessible in a more usable form. I wrote a Python script to parse the XML, created a schema in SQLite to store the data efficiently, and then built a REST API using Flask to interact with the dataset. The result is a simple local API that makes it easy to search and page through over 1.4 million CPE entries based on titles, URIs, and deprecation status.
+
 ---
 
 ## Files Included
