@@ -18,7 +18,7 @@ This project was built for a cybersecurity internship assessment. The goal was t
 ## Large Files (External Links)
 
 - 📂 [Download cpe_data.db](https://1drv.ms/u/c/e3db8d91938a2eeb/EV8OC0MRAdxOsGRhlpWMEqUBbIg7-SZ_gJVeR4FycesEHg?e=2IONKS)
-- 📂 [Download official-cpe-dictionary_v2.3.xml](lhttps://1drv.ms/u/c/e3db8d91938a2eeb/Eb4LWr1-sNlPuxAVotV-5-cBtRexXswLTMSRU7NjuxKH4A?e=fMFgF1)
+- 📂 [Download official-cpe-dictionary_v2.3.xml](https://1drv.ms/u/c/e3db8d91938a2eeb/Eb4LWr1-sNlPuxAVotV-5-cBtRexXswLTMSRU7NjuxKH4A?e=fMFgF1)
 
 
 ## What I Did
